@@ -41,6 +41,13 @@ This repository synthesizes transnational migration block metrics to target high
 
 ---
 
-## 📄 License & Contact
+## 🔒 Proprietary Intellectual Property Notice & License
 
-Distributed under the MIT License. Developed by **Asia Khan**. Optimized for next-generation Instructional Media Design and UX Research portfolios.
+Copyright © 2026 Asia Khan. All rights reserved.
+
+**Strictly Proprietary Assets and Concepts:** 
+All theoretical models, proprietary instructional methodologies, spatial layouts, design prototypes, database schema designs, UX maps, research syntheses, and custom vector modules contained within this repository constitute the exclusive intellectual property of **Asia Khan**. 
+
+**Usage Restrictions:**
+* **No Unauthorized Commercial or Public Reproduction:** No part of this repository, framework, design layout, or original documentation may be copied, reproduced, distributed, sublicensed, or used by public institutions, private entities, or commercial platforms without the express, written prior consent of the owner.
+* **Portfolio Showcase Rights Only:** Permission is granted strictly for the viewing and review of this repository by prospective employers, recruiters, and academic hiring committees exclusively for candidate evaluation and interview validation purposes. Any extraction or deployment of these assets outside this immediate collaborative loop is strictly prohibited.
